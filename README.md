@@ -18,6 +18,6 @@ app - work folder
 ├──index.html - main HTML file
 ```
 # Pattern structure:
-* Gulp - [OptimizedHTML(https://github.com/agragregra/OptimizedHTML-4)
+* [OptimizedHTML](https://github.com/agragregra/OptimizedHTML-4)
 * Bootstrap 4
 * [AOS](https://michalsnik.github.io/aos/) (Animate On Scroll Library)
